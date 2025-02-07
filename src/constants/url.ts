@@ -5,4 +5,4 @@ export const ROOT_SITE_URL = [
   appEnv.public.APP_BASEPATH,
 ].join('/');
 
-export const PROFILE_URL = '/pdfs/nguyen-hoai-phong-cv.pdf';
+export const PROFILE_URL = '/pdfs/tran-cong-danh-cv.pdf';
