@@ -128,6 +128,8 @@ export default function Header() {
               <Link
                 href={PROFILE_URL}
                 title="Tran Cong Danh Resume"
+                target="_blank"
+                download
                 className={cn(
                   'relative flex items-center justify-center gap-x-2 transition-all after:w-0',
                 )}

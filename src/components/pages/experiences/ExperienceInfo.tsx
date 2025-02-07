@@ -14,15 +14,9 @@ export default async function ExperienceInfo() {
       <div className="relative w-full">
         <IntroductionFrame className="md:bottom-0 md:translate-y-full">
           <div className="mt-0 flex flex-col items-center justify-center">
-            <Link
-              href={PROFILE_URL}
-              target="_blank"
-              rel="noopener noreferrer"
-              download
-              className="cursor-pointer font-bold italic text-primary underline"
-            >
-              {t('page.experiences.resume')}
-            </Link>
+            <p className="whitespace-pre-line">
+              {t('page.experiences.description2')}
+            </p>
           </div>
         </IntroductionFrame>
       </div>
@@ -45,7 +39,7 @@ export default async function ExperienceInfo() {
           />
         </li>
         <li>
-          <p className="text-center">{t('page.experiences.description2')}</p>
+          {/* <p className="text-center">{t('page.experiences.description2')}</p> */}
         </li>
       </ul>
     </>
