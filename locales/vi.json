@@ -1,0 +1,133 @@
+{
+  "common": {
+    "navigation": {
+      "home": "trang chủ",
+      "thisIsMe": "Đây is Dan",
+      "aboutMe": "Về mình",
+      "experiences": "Kinh nghiệm",
+      "resume": "Hồ sơ"
+    },
+    "drawer": {
+      "home": "trang chủ",
+      "about": "về mình",
+      "experiences": "Kinh nghiệm"
+    },
+    "headerMobile": {
+      "title": "Góc của Danh",
+      "description": "những chuyện 'linh tinh'"
+    },
+    "social": {
+      "fb": "Theo dõi mình trên Facebook",
+      "github": "Còn đây là Github của mình",
+      "linkedin": "Ngoài ra mình còn có LinkedIn"
+    },
+    "breadcrumbs": "Bạn đang xem"
+  },
+  "page": {
+    "home": {
+      "title": "WEBSITE DEVELOPER",
+      "summary": "Đam mê xây dựng các ứng dụng web hiệu suất cao, mở rộng và dễ duy trì. Chuyên biến các vấn đề phức tạp thành những giải pháp hiệu quả và tối ưu.",
+      "projects": "Dự an nổi bật & Nghiên cứu",
+      "experience": "Kinh nghiệm, Chuyên môn & Trách nhiệm"
+    },
+    "about": {
+      "title": "Mình là ai?",
+      "introduction": "Hí, mình là Công Danh",
+      "position1": "Website Developer",
+      "position2": "Sofware Developer",
+      "description1": "Hiện tại mình đang là một",
+      "description2": ", và cũng đang tập tành để trở thành một",
+      "description3": "Mình là sinh viên trường HCMUNRE, một trường không quá mạnh về IT, vì vậy đa số kiến thức lập trình mình đều tự học hỏi và rèn luyện.",
+      "description4": "Mình luôn cố gắng học hỏi và hoàn thiện bản thân qua từng project để phát triển các ứng dụng ngày càng chỉnh chu hơn.",
+      "description5": "Mọi người trong team đều yêu thích và đánh giá cao mình nhờ khả năng làm việc nhóm tốt, biết pha trò để tạo không khí vui vẻ nhưng vẫn luôn đảm bảo hoàn thành task được giao đúng tiến độ.",
+      "description6": "Mình cũng rất thích chia sẻ công nghệ mới với bạn bè để cùng nhau học hỏi và cải thiện sản phẩm, giúp nó phù hợp hơn với thị hiếu hiện tại."
+    },
+    "experiences": {
+      "title1": "Kinh nghiệm làm việc",
+      "resume": "Đây là CV của mình",
+      "description1": "Những gì tui đã học và làm, đều được tóm tắt ở đây !",
+      "description2": "Mọi người có thể xem chi tiết ở phía bên dưới nhé.",
+      "list": {
+        "overview": {
+          "title": "Kinh nghiệm/Kiến thức",
+          "description1": "Mình có hơn 3 năm kinh nghiệm về xây dựng và phát triển Websites hoặc Web based applications.",
+          "description2": "Mình có kinh nghiệm, làm việc và sử dụng những công nghệ/ngôn ngữ như ReactJS, NextJS, Material UI, Tailwinds, Antd, HTML5, SCSS, Typescript, Redux Toolkit v.v",
+          "description3": "Mình có kinh nghiệm trong việc xử lí bố cục websites, responsive và cross-browser sử dụng các tools như Figma, v.v",
+          "description4": "Mình có kiến thức cơ bản về các loại cơ sở dữ liệu như SQL, MongoDB.",
+          "description5": "Ngoài ra, mình cũng đã từng sử dụng và làm việc với công nghệ/ngôn ngữ Backend NodeJS.",
+          "description6": "Tuy nền tảng là xây dựng và phát triển Websites nhưng mình cũng có thể hỗ trợ đội ngũ phát triển Mobile App (Flutter) khi cần thiết.",
+          "description7": "Về ngoại ngữ, mình có thể sử dụng tiếng Anh trong quá trình làm việc, đọc hiểu tài liệu kĩ thuật liên quan."
+        },
+        "edu": {
+          "title": "Học Vấn",
+          "experiences": {
+            "title": "CÔNG NGHỆ THÔNG TIN",
+            "subTitle": "Đại học Tài nguyên và Môi trường HCM",
+            "description": "- Chuyên ngành Công nghệ thông tin với trọng tâm về phát triển ứng dụng web và thiết kế hệ thống.\n- Học tập và nghiên cứu về nguyên lý phân tích, thiết kế hệ thống website và ứng dụng.\n- Tiếp cận và thực hành các kiến thức cơ bản về phát triển game với Unity.\n- Áp dụng kiến thức lý thuyết vào các dự án thực tế và ứng dụng thực tiễn.",
+            "time": "2018 - 2022"
+          }
+        },
+        "work": {
+          "title": "Kinh Nghiệm Làm Việc",
+          "dsu": {
+            "title": "DISION Tech Limited Company",
+            "subTitle": "FRONTEND DEVELOPER",
+            "description": "- Phát triển và tối ưu hệ thống plugin cho website, quản lý và tối ưu các plugin bằng Turborepo để cải thiện hiệu suất và khả năng mở rộng.\n- Nghiên cứu và tiếp cận mô hình Multi-Tenant để gia tăng khả năng mở rộng và quản lý dữ liệu giữa các khách hàng.\n- Tìm hiểu và làm việc chuyên sâu về lĩnh vực bảo mật, hiểu rõ các chức năng quan trọng của hệ thống EDR (Endpoint Detection and Response).\n- Quản lý và làm việc theo mô hình Agile, đảm bảo tiến độ phát triển sản phẩm qua từng sprint.\n- Hỗ trợ phát triển website \"Daily Report\" phục vụ nhu cầu sử dụng nội bộ.",
+            "time": "9/2024 - Hiện tại"
+          },
+          "saigonMio": {
+            "title": "Saigon MIO Technology JSC",
+            "subTitle": "FRONTEND DEVELOPER",
+            "description": "- Xây dựng giao diện website dự án bằng JavaScript (ReactJS/NextJS), tối ưu hóa các component để tăng tính tái sử dụng.\n- Đóng góp hơn 40% vào quá trình xây dựng giao diện người dùng trong dự án, chịu trách nhiệm chính về tiến độ phát triển và đảm bảo tính năng của sản phẩm.\n- Làm việc với kiến trúc MVC đồng thời tích hợp React để nâng cao phát triển UI theo hướng component-based.\n- Duy trì, báo cáo và tối ưu hiệu suất website cùng với SEO, thành công đưa sản phẩm xếp hạng trên trang đầu tiên của Google.\n- Đảm bảo website hiển thị tốt trên mọi thiết bị và kích thước màn hình (mobile, tablet, desktop).\n- Áp dụng Axios Interceptors để xử lý lỗi tập trung, nâng cao hiệu suất làm việc và giúp đội ngũ phát triển nhanh hơn 10%.\n- Tham gia các buổi chia sẻ kiến thức về Next.js và đóng góp vào việc triển khai trong các dự án frontend tương lai.\n- Cải tiến website dựa trên phản hồi từ khách hàng, tham gia trực tiếp các buổi họp để làm rõ yêu cầu và định hướng phát triển sản phẩm cùng khách hàng.\n- Tham gia vào đội ngũ phát triển Mobile App, hỗ trợ trong việc xây dựng giao diện người dùng và tối ưu hóa hiệu suất.",
+            "time": "04/2022 - 9/2024"
+          },
+          "bessfu": {
+            "title": "BESSFU Solution Technology Company Limited",
+            "subTitle": "FRONTEND DEVELOPER",
+            "description": "- Phát triển và triển khai các thành phần UI thân thiện với người dùng dựa trên thiết kế Figma sử dụng Next.js, React.js và MUI Material.\n- Đóng góp vào việc phát triển frontend cho nền tảng e-learning của hệ thống học tiếng Anh VUS, đảm bảo trải nghiệm người dùng mượt mà và khả năng responsive.\n- Tối ưu hóa hiệu suất ứng dụng và khả năng responsive của UI để mang lại trải nghiệm học tập hấp dẫn trên mọi thiết bị.\n - Hỗ trợ phát triển các mini-game học tiếng Anh tương tác bằng JavaScript và jQuery, giúp tăng sự hứng thú cho học viên",
+            "time": "9/2021 - 4/2022"
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "home": {
+      "title": "Góc của mình - Công Danh",
+      "description": "Đây là nơi mà mình chia sẻ những câu chuyện linh tinh của mình, những blogs về lập trình, những kinh nghiệm Dang vấn, bla bla...",
+      "og": {
+        "title": "Hí, mình là Công Danh",
+        "description": "Đây là nơi mình chia sẻ mấy chuyện linh tinh..."
+      },
+      "keywords": "Trần Công Danh,Góc của Danh,Công Danh space"
+    },
+    "about": {
+      "title": "Về mình - Công Danh",
+      "description": "Tìm hiểu thêm về mình, hành trình và kinh nghiệm của mình. Hi vọng sẽ giúp mọi người biết thêm một chút `gì đó` về mình.",
+      "og": {
+        "title": "Công Danh là ai ?",
+        "description": "Thắc mắc gì ở mình thì xem ở đây nhé."
+      },
+      "keywords": "Trần Công Danh,Giới thiệu Công Danh,Thông tin cá nhân Công Danh,Hành trình của Công Danh,Kinh nghiệm của Công Danh,Sự nghiệp Công Danh,Công Danh Developer,Công Danh Frontend Developer,Công Danh Frontend Engineer,Công Danh Software Engineer"
+    },
+    "experiences": {
+      "title": "Kinh nghiệm làm việc - Công Danh",
+      "description": "Bản tóm tắt về quá trình làm việc của tui.",
+      "og": {
+        "title": "Kinh nghiệm làm việc của Danh",
+        "description": "Kinh nghiệm tích luỹ được tui sẽ để ở đây nhé."
+      },
+      "keywords": "Kinh nghiệm Trần Công Danh,Kinh nghiệm làm việc Công Danh,Dự án Công Danh đã thực hiện,Kỹ năng chuyên môn Công Danh,Thành tựu nghề nghiệp Công Danh,Công Danh Developer,Công Danh Frontend Developer,Công Danh Projects,Frontend Developer,Công Danh Frontend Engineer,Frontend Engineer"
+    }
+  },
+  "breadcrumbs": {
+    "about": {
+      "home": "Trang chủ",
+      "about": "Về mình"
+    },
+    "experiences": {
+      "home": "Trang chủ",
+      "experiences": "Kinh nghiệm làm việc"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "common": {
+    "navigation": {
+      "home": "Home",
+      "thisIsMe": "This is Dan",
+      "aboutMe": "About Me",
+      "experiences": "Experiences",
+      "resume": "Resume"
+    },
+    "drawer": {
+      "home": "Home",
+      "about": "About Me",
+      "experiences": "Experiences"
+    },
+    "headerMobile": {
+      "title": "Danh's Corner",
+      "description": "random stories"
+    },
+    "social": {
+      "fb": "Follow me on Facebook",
+      "github": "Here is my Github",
+      "linkedin": "I also have a LinkedIn"
+    },
+    "breadcrumbs": "You are viewing"
+  },
+  "page": {
+    "home": {
+      "title": "WEBSITE DEVELOPER",
+      "summary": "Passionate about building high-performance, scalable, and maintainable web applications. Specializing in turning complex problems into effective and optimized solutions.",
+      "projects": "Featured Projects & Research",
+      "experience": "Experience, Expertise & Responsibilities"
+    },
+    "about": {
+      "title": "Who am I?",
+      "introduction": "Hi, I'm Cong Danh",
+      "position1": "Website Developer",
+      "position2": "Software Developer",
+      "description1": "Currently, I am a",
+      "description2": ", and I am also training to become a",
+      "description3": "I am a student at HCMUNRE, a university that is not particularly strong in IT. Therefore, most of my programming knowledge comes from self-learning and practice.",
+      "description4": "I always strive to learn and improve myself through each project to develop increasingly refined applications.",
+      "description5": "My team appreciates me for my strong teamwork skills, my ability to keep a fun and friendly atmosphere, while still ensuring that assigned tasks are completed on schedule.",
+      "description6": "I also enjoy sharing new technology with friends to learn together and improve our products, making them more aligned with current market trends."
+    },
+    "experiences": {
+      "title1": "Work Experience",
+      "resume": "Here is my CV",
+      "description1": "Everything I have learned and done is summarized here!",
+      "description2": "You can check out the details below.",
+      "list": {
+        "overview": {
+          "title": "Experience/Knowledge",
+          "description1": "I have 3+ years of experience in building and developing websites and web-based applications.",
+          "description2": "I have experience working with technologies and languages such as ReactJS, NextJS, Material UI, Tailwind, Antd, HTML5, SCSS, TypeScript, Redux Toolkit, etc.",
+          "description3": "I have experience in website layout design, responsiveness, and cross-browser compatibility using tools like Figma.",
+          "description4": "I have basic knowledge of databases like SQL and MongoDB.",
+          "description5": "Additionally, I have used and worked with backend technologies like NodeJS.",
+          "description6": "Although my main focus is building websites, I can also support mobile app development teams (Flutter) when needed.",
+          "description7": "Regarding languages, I can use English in my work, including reading and understanding technical documentation."
+        },
+        "edu": {
+          "title": "Education",
+          "experiences": {
+            "title": "INFORMATION TECHNOLOGY",
+            "subTitle": "Ho Chi Minh University of Natural Resources and Environment",
+            "description": "- Major in Information Technology with a focus on web application development and system design.\n- Studied and researched principles of system analysis and website/application design.\n- Gained basic knowledge in game development with Unity.\n- Applied theoretical knowledge to real-world projects and practical applications.",
+            "time": "2018 - 2022"
+          }
+        },
+        "work": {
+          "title": "Work Experience",
+          "dsu": {
+            "title": "DISION Tech Limited Company",
+            "subTitle": "FRONTEND DEVELOPER",
+            "description": "- Developed and optimized website plugins, managing and improving plugins using Turborepo to enhance performance and scalability.\n- Researched and implemented the Multi-Tenant model to improve scalability and data management across clients.\n- Gained deep insights into security and the critical functionalities of EDR (Endpoint Detection and Response) systems.\n- Worked in an Agile environment, ensuring timely product development in each sprint.\n- Assisted in developing the internal \"Daily Report\" website.",
+            "time": "09/2024 - Present"
+          },
+          "saigonMio": {
+            "title": "Saigon MIO Technology JSC",
+            "subTitle": "FRONTEND DEVELOPER",
+            "description": "- Built website UI for projects using JavaScript (ReactJS/NextJS) and optimized components for reusability.\n- Contributed over 40% to the UI development process, taking primary responsibility for development progress and feature implementation.\n- Worked with the MVC architecture while integrating React for a component-based UI approach.\n- Maintained, reported, and optimized website performance and SEO, successfully achieving high search rankings on Google.\n- Ensured website responsiveness across all devices (mobile, tablet, desktop).\n- Implemented Axios Interceptors for centralized error handling, boosting team efficiency by 10%.\n- Conducted knowledge-sharing sessions on Next.js and contributed to its adoption in future frontend projects.\n- Improved the website based on customer feedback and participated in direct meetings to clarify requirements and guide product development.\n- Supported the Mobile App development team in building UI and optimizing performance.",
+            "time": "04/2022 - 09/2024"
+          },
+          "bessfu": {
+            "title": "BESSFU Solution Technology Company Limited",
+            "subTitle": "FRONTEND DEVELOPER",
+            "description": "- Developed and implemented user-friendly UI components based on Figma designs using Next.js, React.js, and MUI Material.\n- Contributed to the frontend development of an e-learning platform for the VUS English learning system, ensuring a smooth user experience and responsiveness.\n- Optimized application performance and UI responsiveness to provide an engaging learning experience across devices.\n- Assisted in developing interactive English learning mini-games using JavaScript and jQuery to enhance student engagement.",
+            "time": "09/2021 - 04/2022"
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "home": {
+      "title": "My Corner - Cong Danh",
+      "description": "This is where I share my random thoughts, programming blogs, and personal experiences...",
+      "og": {
+        "title": "Hi, I'm Cong Danh",
+        "description": "This is where I share random things..."
+      },
+      "keywords": "Tran Cong Danh,Danh's Corner,Cong Danh space"
+    },
+    "about": {
+      "title": "About Me - Cong Danh",
+      "description": "Learn more about me, my journey, and my experience. Hopefully, you'll get to know something interesting about me.",
+      "og": {
+        "title": "Who is Cong Danh?",
+        "description": "Curious about me? Check it out here."
+      },
+      "keywords": "Tran Cong Danh,About Cong Danh,Cong Danh's personal info,Cong Danh's journey,Cong Danh's experience,Cong Danh's career,Cong Danh Developer,Cong Danh Frontend Developer,Cong Danh Frontend Engineer,Cong Danh Software Engineer"
+    },
+    "experiences": {
+      "title": "Work Experience - Cong Danh",
+      "description": "A summary of my professional journey, the technologies I have worked with, and the projects I have contributed to...",
+      "og": {
+        "title": "Cong Danh's Work Experience",
+        "description": "A detailed look at my work experience."
+      },
+      "keywords": "Tran Cong Danh,Cong Danh work experience,Cong Danh's professional journey,Cong Danh Frontend Developer experience,Cong Danh software engineering background"
+    }
+  },
+  "breadcrumbs": {
+    "about": {
+      "home": "Home",
+      "about": "About Me"
+    },
+    "experiences": {
+      "home": "Home",
+      "experiences": "Work Experience"
+    }
+  }
+}
